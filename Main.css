@@ -57,6 +57,7 @@ body {
 	font-size: 150%;
 	font-style: italic;
 	text-align: center;
+	margin-bottom: 10px;
 
 }
 
@@ -79,7 +80,8 @@ body {
 }
 
 .row {
-	
+	margin-bottom: 10px;
+
 }
 
 .spacer {
