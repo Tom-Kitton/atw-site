@@ -84,6 +84,20 @@ body {
 
 }
 
+.side-label{
+	font-family: 'Inknut Antiqua', serif;
+	background-color: black;
+	color: white;
+	font-size: 150%;
+	font-style: italic;
+	text-align: left;
+	margin-bottom: 10px;
+	border-bottom: 1px solid white;
+}
+.slab{
+	margin-bottom: 40px;
+}
+
 .spacer {
  	z-index: -1;
  	position: relative;
